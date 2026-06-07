@@ -1,4 +1,3 @@
-# 💫 About Me:
 HEY!!<br>Welcome to my GitHub! I'm Chaitra.<br>
 
 
@@ -13,16 +12,15 @@ HEY!!<br>Welcome to my GitHub! I'm Chaitra.<br>
 ## Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb,mysql,php,java,python,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb,expressjs,mysql,github" />
 </p>
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitradhake&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitradhake&show_icons=true" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitradhake&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaitradhake&show_icons=true" />
 </p>
-
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitradhake" />
 </p>
