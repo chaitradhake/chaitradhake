@@ -19,7 +19,6 @@ HEY!!<br>Welcome to my GitHub! I'm Chaitra.<br>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitradhake&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaitradhake&show_icons=true" />
 </p>
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitradhake" />
